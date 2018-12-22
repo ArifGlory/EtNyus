@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="german_familienname">
+        <item>Fischer</item>
+        <item>Bauer</item>
+        <item>Scheider</item>
+        <item>Jäger</item>
+        <item>Müller</item>
+        <item>Schulz</item>
+        <item>Neumann</item>
+        <item>Schwarz</item>
+        <item>Lange</item>
+        <item>Köhler</item>
+        <item>Schumacher</item>
+    </string-array>
+</resources>

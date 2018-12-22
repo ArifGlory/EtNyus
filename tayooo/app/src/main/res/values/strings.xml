@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Add News</string>
+
+    <string name="username_error">Periksa kembali username anda</string>
+    <string name="nama_error">Periksa kembali nama anda</string>
+    <string name="no_hp_error">Periksa kembali nomor telepon anda</string>
+    <string name="email_error">Periksa kembali email anda</string>
+    <string name="password_error">Periksa kembali password anda</string>
+    <string name="confirm_password_error">Periksa kembali konfirm password anda</string>
+
+
+    <string-array name="status_user">
+        <item>Mahasiswa</item>
+        <item>Dosen</item>
+        <item>Karyawan</item>
+        <item>Alumni</item>
+    </string-array>
+
+</resources>
